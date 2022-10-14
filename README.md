@@ -40,4 +40,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanCadu&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   
- ![Snake animation](https://github.com/StephanCadu/StephanCadu/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/StephanCadu/StephanCadu/blob/output/github-contribution-grid-snake.svg) -->
