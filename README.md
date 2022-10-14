@@ -36,10 +36,8 @@
 
 <div align="center">
   <a href="https://github.com/StephanCadu">
-  <img height="174em" src="https://github-readme-stats.vercel.app/api?username=StephanCadu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanCadu&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StephanCadu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanCadu&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   
-<div align="center">
-  ![Snake animation](https://github.com/StephanCadu/StephanCadu/blob/output/github-contribution-grid-snake.svg)
-</div>
+ ![Snake animation](https://github.com/StephanCadu/StephanCadu/blob/output/github-contribution-grid-snake.svg)
