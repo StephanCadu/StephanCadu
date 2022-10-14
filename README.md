@@ -15,7 +15,14 @@
 - 🎯 I'm studing to become a Full Stack Developer
 
 <br>
+<br>
 
+<div align="center">
+  <a href="https://github.com/StephanCadu">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StephanCadu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanCadu&layout=compact&langs_count=7&theme=maroongold"/>
+</div>
+  
 ## :hammer_and_wrench: Stack
 
 <div style="display: inline_block"><br>  
@@ -28,16 +35,6 @@
   <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-</div>
-
-<br>
-<br>
-<br>
-
-<div align="center">
-  <a href="https://github.com/StephanCadu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StephanCadu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanCadu&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   
 <!--  ![Snake animation](https://github.com/StephanCadu/StephanCadu/blob/output/github-contribution-grid-snake.svg) -->
