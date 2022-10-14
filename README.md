@@ -36,5 +36,7 @@
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 </div>
+ 
+ ##
   
-![Snake animation](https://github.com/StephanCadu/StephanCadu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/StephanCadu/stephancadu/blob/output/github-contribution-grid-snake.svg)
