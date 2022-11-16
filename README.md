@@ -4,15 +4,15 @@
 
 - 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
 
-- 🌱 I’m currently learning Docker and MySQL
+- 🌱 I’m currently learning Node.js
 
-- :handshake: I'm looking to collaborate with React and JS projects
+- :handshake: I'm looking to collaborate with BackEnd projects
 
 - 🌎 I'm Brazilian
 
 - 💬 Ask me about **JavaScript, Chess and Skateboard**
 
-- 🎯 I'm studing to become a Full Stack Developer
+- 🎯 I'm studing to become a BackEnd Developer
 
 <br>
 <br>
