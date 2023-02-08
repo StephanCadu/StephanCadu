@@ -46,10 +46,11 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
   
-<!-- <br> -->
+<br>
   
-<!-- ## 👤 Contact
+## 👤 Contact
   
-<div style="display: inline_block"><br>  
-
-</div> -->
+<div>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-stephan-851b91233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:cdauk@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
