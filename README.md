@@ -4,7 +4,7 @@
 
 - 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
 
-- 🌱 I’m currently learning OOP and MongoDB
+- 🌱 I’m currently learning Python and OOP
 
 - :handshake: I'm looking to collaborate with BackEnd projects
 
