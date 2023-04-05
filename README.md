@@ -86,3 +86,5 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
 <!--   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" > -->
 </div>
+
+![snake gif](https://github.com/StephanCadu/StephanCadu/blob/output/github-contribution-grid-snake.svg)
