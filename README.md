@@ -2,7 +2,7 @@
 
 <br>
 
-- 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
+- 💻 Back End Developer 
 
 - 🌱 I’m currently learning Python and OOP
 
@@ -11,8 +11,6 @@
 - 🌎 I'm Brazilian
 
 - 💬 Ask me about **JavaScript, Chess and Skateboard**
-
-- 🎯 I'm studing to become a BackEnd Developer
 
 <br>
 <br>
