@@ -1,4 +1,4 @@
-<h1 align="center">Hi stranger, I'm Cadu! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="center">Hi stranger, I'm Cadu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> </h1>
 
 <br>
 
@@ -15,14 +15,15 @@
   - 💬 Ask me about **JavaScript, Chess and Skateboard**
 
 </div>
-  
+
+<br>
+
 <div align="center">
-  <a href="https://github.com/StephanCadu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?      username=StephanCadu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StephanCadu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanCadu&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=StephanCadu&theme=maroongold">
 </div>
   
-<br>
 <br>
 
 <h1 align="center"> :hammer_and_wrench: Toolkit </h1>
