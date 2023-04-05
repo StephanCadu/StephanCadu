@@ -2,28 +2,30 @@
 
 <br>
 
-- 💻 Back End Developer 
+<div align="left">
 
-- 🌱 I’m currently learning Python and OOP
+  - 💻 Back End Developer 
 
-- :handshake: I'm looking to collaborate with BackEnd projects
+  - 🌱 I’m currently learning Python and OOP
 
-- 🌎 I'm Brazilian
+  - :handshake: I'm looking to collaborate with BackEnd projects
 
-- 💬 Ask me about **JavaScript, Chess and Skateboard**
+  - 🌎 I'm Brazilian
 
-<br>
-<br>
+  - 💬 Ask me about **JavaScript, Chess and Skateboard**
 
+</div>
+  
 <div align="center">
   <a href="https://github.com/StephanCadu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StephanCadu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?      username=StephanCadu&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanCadu&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   
 <br>
-  
-## :hammer_and_wrench: Toolkit
+<br>
+
+<h1 align="center"> :hammer_and_wrench: Toolkit </h1>
 
 <div style="display: inline_block" align="center"><br>  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -54,9 +56,9 @@
   
 <br>
   
-## 👤 Contact
+<h1 align="center"> 👤 Contact </h1>
   
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/carlos-eduardo-stephan-851b91233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:cdauk@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
