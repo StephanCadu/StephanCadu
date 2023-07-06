@@ -6,7 +6,7 @@
 
   - 💻 Back End Developer 
 
-  - 🌱 I’m currently learning Java and OOP.
+  - 🌱 I’m currently learning Java and Spring.
 
   - :handshake: I'm looking to collaborate with BackEnd projects
 
